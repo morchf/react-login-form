@@ -1,6 +1,6 @@
 ******To Test the project*****
 =================================
-1. Git clone https://github.com/morchf/React-login-example.js
+1. Git clone https://github.com/morchf/react-login-form.js
 2. npm install --save
 
 
